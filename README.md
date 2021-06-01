@@ -2,7 +2,7 @@
 
 ## Data
 
-For this project, the public data available at [Kaggle] (https://www.kaggle.com/uciml/sms-spam-collection-dataset) have been used.
+For this project, the public data available at [Kaggle](https://www.kaggle.com/uciml/sms-spam-collection-dataset) have been used.
 
 ## Techniques 
 
